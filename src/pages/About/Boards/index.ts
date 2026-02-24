@@ -1,0 +1,12 @@
+export { default as DeeniyatBoard } from './DeeniyatBoard';
+export { default as PrimaryBoard } from './PrimaryBoard';
+export { default as HighSchoolBoard } from './HighSchoolBoard';
+export { default as DegreeBoysBoard } from './DegreeBoysBoard';
+export { default as DegreeGirlsBoard } from './DegreeGirlsBoard';
+export { default as PUCBoysBoard } from './PUCBoysBoard';
+export { default as PUCGirlsBoard } from './PUCGirlsBoard';
+export { default as AITMBoard } from './AITMBoard';
+export { default as AIMCABoard } from './AIMCABoard';
+export { default as ACEBoard } from './ACEBoard';
+export { default as WorksCommittee } from './WorksCommittee';
+export { default as SpecialInvitees } from './SpecialInvitees';

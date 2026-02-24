@@ -1,0 +1,11 @@
+export { default as HeroSection } from './HeroSection';
+export { default as Intro } from './Intro';
+export { default as Institutions } from './Institutions';
+export { default as Courses } from './Courses';
+export { default as HappeningsSection } from './HappeningsSection';
+export { default as BannerSection } from './BannerSection';
+export { default as GallerySection } from './GallerySection';
+export { default as TestimonialsSection } from './TestimonialsSection';
+export { default as PlacementsSection } from './PlacementsSection';
+export { default as StudentJourneySection } from './StudentJourneySection';
+export { default as FoundersSection } from './FoundersSection';
